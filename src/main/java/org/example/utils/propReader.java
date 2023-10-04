@@ -30,6 +30,7 @@ public class propReader {
 
         } catch (Exception ex) {
             ex.printStackTrace();
+
         }
         finally {
           if(Objects.nonNull(fs)){

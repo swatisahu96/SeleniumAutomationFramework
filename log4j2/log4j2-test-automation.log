@@ -1,0 +1,9 @@
+[INFO ] 2023-09-04 20:31:57.187 [main] LoginTest - Failed TestCase Passed!
+[INFO ] 2023-09-04 20:32:05.397 [main] LoginTest - Navigated to url
+[INFO ] 2023-09-04 20:32:06.755 [main] LoginTest - Navigated to Dashboard
+[INFO ] 2023-09-04 23:28:30.436 [TestNG-test=C:/Users/hp/IdeaProjects/Selenium/SeleniumFramework-2] LoginTest - Navigated to url
+[INFO ] 2023-09-04 23:28:34.301 [TestNG-test=C:/Users/hp/IdeaProjects/Selenium/SeleniumFramework-2] LoginTest - Navigated to Dashboard
+[INFO ] 2023-09-04 23:28:38.017 [TestNG-test=C:/Users/hp/IdeaProjects/Selenium/SeleniumFramework-1] LoginTest - Failed TestCase Passed!
+[INFO ] 2023-09-04 23:32:03.312 [TestNG-test=C:/Users/hp/IdeaProjects/Selenium/SeleniumFramework-2] LoginTest - Navigated to url
+[INFO ] 2023-09-04 23:32:07.815 [TestNG-test=C:/Users/hp/IdeaProjects/Selenium/SeleniumFramework-2] LoginTest - Navigated to Dashboard
+[INFO ] 2023-09-04 23:32:07.831 [TestNG-test=C:/Users/hp/IdeaProjects/Selenium/SeleniumFramework-1] LoginTest - Failed TestCase Passed!

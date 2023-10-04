@@ -14,7 +14,7 @@ public class LoginPage extends basePage {
     static By userName = By.id("login-username");
     static By password = By.id("login-password");
     static By signInButton = By.id("js-login-btn");
-    static By errorMessage = By.className("notification-box-description");
+    static By errorMessage = By.id("js-notification-box-msg");
 
 
     public LoginPage loginToAppVWO(boolean invalid) throws Exception {
@@ -35,7 +35,8 @@ public class LoginPage extends basePage {
         return new DashboardPage();
     }
 
-    public static String verifyErrorMessage() {
+    public String verifyErrorMessage() {
+        visibilityOfElement(errorMessage);
         return getElement(errorMessage).getText();
     }
 

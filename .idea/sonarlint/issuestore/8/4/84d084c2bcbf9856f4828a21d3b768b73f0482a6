@@ -1,0 +1,6 @@
+
+l
+java:S1104"VMake verifyUser a static final constant or non-public and provide accessors if needed.(¤™—Ž
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óê™±ùÿÿÿÿ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡ž‹ûþÿÿÿÿ
